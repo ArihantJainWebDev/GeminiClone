@@ -179,6 +179,15 @@
     line-height: 1.8;
 }
 
+@media (max-width: 790px) {
+    .greet p {
+        font-size: 20px
+    }
+    .greet p span {
+        font-size: 36px
+    }
+}
+
 @media (max-width: 640px) {
     .main-bottom input {
         flex: none;
