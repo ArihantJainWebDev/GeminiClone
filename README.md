@@ -69,7 +69,6 @@ npm run dev
 ```
 
 ## 📬 Contact
-
-> Airhant: https://portfolio-q8u1.onrender.com<br/>
-> Email: arihantjainwebdev@gmail.com</br>
-> contact: +91-8224954785
+**Airhant:** https://portfolio-q8u1.onrender.com<br/>
+**Email:** arihantjainwebdev@gmail.com</br>
+**contact:** +91-8224954785
