@@ -8,10 +8,9 @@ GeminiClone is a fully responsive AI chatbot app that mimics the core features o
 
 - 🔍 New Chat Creation
 - 💬 Real-time Typing Animation
-- 🧠 Smart Response System (using custom API or placeholder)
-- 🗂️ Chat History Management
+- 🧠 Smart Response System
+- 🗂️ Chat History
 - 🎨 Responsive UI Design
-- 🌙 Light/Dark Mode (optional if added)
 
 ---
 
@@ -24,9 +23,9 @@ GeminiClone is a fully responsive AI chatbot app that mimics the core features o
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, CSS
-- **Animations:** CSS Keyframes / Framer Motion (if used)
-- **API:** [Your API or Placeholder]
-- **Deployment:** Netlify / Vercel
+- **Animations:** CSS Keyframes
+- **API:** Gemini API
+- **Deployment:** Vercel
 
 ---
 
@@ -44,3 +43,14 @@ GeminiClone/
 ├── .gitignore
 ├── README.md
 └── package.json
+
+📦 Installation
+Clone the Repository
+
+<pre> ```bash git clone https://github.com/YourUsername/GeminiClone.git``` </pre>
+
+<pre> ```bash cd GeminiClone```</pre>
+
+<pre> ```bash npm install```</pre>
+
+<pre> ```npm run dev```</pre>
