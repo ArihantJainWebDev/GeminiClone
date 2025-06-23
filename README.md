@@ -45,7 +45,8 @@ GeminiClone/
 └── package.json
 ```
 
-📦 Installation
+## 📦 Installation
+
 Clone the Repository
 
 ```bash
@@ -64,5 +65,5 @@ npm install
 Run the App
 
 ```bash 
-npm run dev`
-``
+npm run dev
+```
