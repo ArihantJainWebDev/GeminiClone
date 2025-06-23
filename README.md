@@ -48,13 +48,21 @@ GeminiClone/
 📦 Installation
 Clone the Repository
 
-```bash git clone https://github.com/YourUsername/GeminiClone.git```
+```bash
+git clone https://github.com/YourUsername/GeminiClone.git
+```
 Navigate to the project folder
 
-```bash cd GeminiClone```
+```bash
+cd GeminiClone
+```
 Install Dependencies
 
-```bash npm install```
+```bash
+npm install
+```
 Run the App
 
-```npm run dev```
+```bash 
+npm run dev`
+``
